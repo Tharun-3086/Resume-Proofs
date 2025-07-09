@@ -19,13 +19,13 @@ The project demonstrates an understanding of matrix operations such as convoluti
 
 To run the project, you will need the following libraries installed:
 
-- **Python 3.x**: Make sure you have Python 3.x installed.
+- **Python version**: Make sure you have Python 3.12 or above installed.
 - **NumPy**: For matrix operations and array manipulations.
 - **OpenCV**: For image loading and saving.
 
 ## Installation
 
-1. First, make sure you have Python 3.x installed. You can download it from [here](https://www.python.org/downloads/).
+1. First, make sure you have latest version Python installed. You can download it from [here](https://www.python.org/downloads/).
 2. Install the required libraries using `pip`. Run the following command in your terminal:
 
    ```bash
